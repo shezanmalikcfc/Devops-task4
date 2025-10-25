@@ -6,7 +6,6 @@ crash.log
 crash.*.log
 terraform.tfvars
 *.log
-execution-log.txt
 plan-output.txt
 apply-output.txt
 destroy-output.txt
